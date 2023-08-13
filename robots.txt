@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://angka-togel-kasur.github.io/atk-1/sitemap.xml
